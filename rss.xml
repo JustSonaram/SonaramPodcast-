@@ -18,5 +18,13 @@
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>0:18</itunes:duration>
     </item>
+    <item>
+      <title>StarDelete</title>
+      <description>Первая музыка Sonaram.</description>
+      <pubDate>Tue, 5 Apr 2022 20:20:00 GMT</pubDate>
+      <enclosure url="https://github.com/JustSonaram/SonaramPodcast-/raw/main/StarDelete.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>0:24</itunes:duration>
+    </item>
   </channel>
 </rss>
